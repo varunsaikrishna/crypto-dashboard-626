@@ -1,1 +1,1 @@
-feat: initial commit\n
+feat: initial commit\ndocs: update README with setup instructions\n
