@@ -1,1 +1,1 @@
-feat: initial commit\ndocs: update README with setup instructions\nstyle: format code with prettier\n
+feat: initial commit\ndocs: update README with setup instructions\nstyle: format code with prettier\nfeat: implement user profile page\n
